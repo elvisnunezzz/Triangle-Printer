@@ -17,7 +17,7 @@ This Java program prompts the user for the number of rows and prints two separat
 1. Ensure that Java is installed on your system by running `java -version` in your command line.
 2. Download the source code from the repository or clone it with:
    ```
-   git clone <repository-url>
+   git clone <https://github.com/elvisnunezzz/Triangle-Printer/blob/main/Nuneelvi_Program2.java>
    ```
 3. Navigate to the directory containing the project files.
 4. Compile the Java program using:
